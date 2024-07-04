@@ -1,12 +1,9 @@
 {
-  "homepage": "https://sarbajitacharjee.github.io/Orglens_Survey_Form",
   "name": "problem1",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "predeploy":"npm run build",
-    "deploy":"npx gh-pages -d build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
