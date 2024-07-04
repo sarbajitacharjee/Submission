@@ -6,7 +6,7 @@ const Header = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col">
-              <h1 className="fw-bold">Survey App</h1>
+              <h1 className="fw-bold">Survey</h1>
             </div>
             <div className="col-auto ">
               <nav className="flex flex-wrap gap-6">
