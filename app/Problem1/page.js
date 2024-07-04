@@ -39,9 +39,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      <div className="absolute text-center left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 h-[200px] opacity-50 w-[200px] bg-blue-500">
-      BOX
-      </div>
+      
       </main>
     </>
   );
