@@ -1,5 +1,7 @@
 // components/Header.js
 import Link from "next/link";
+
+// Here is my Header Code
 const Header = () => {
     return (
       <header className="bg-dark text-white py-1 ">
